@@ -1,0 +1,4 @@
+1. Setup postgresql
+2. username = postgres, password = 123
+3. CREATE DATADASE tasks;
+4. web at localhost:8080

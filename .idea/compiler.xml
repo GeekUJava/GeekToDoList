@@ -6,13 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="GeekToDoList2" />
-        <module name="GeekUJava" />
+        <module name="gs-serving-web-content" />
+        <module name="sweater" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="GeekToDoList2" target="1.5" />
-      <module name="GeekUJava" target="1.5" />
-    </bytecodeTargetLevel>
   </component>
 </project>
